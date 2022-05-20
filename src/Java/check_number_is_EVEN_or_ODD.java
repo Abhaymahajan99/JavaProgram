@@ -16,11 +16,7 @@ public class check_number_is_EVEN_or_ODD {
 			System.out.println("Odd number");
 		}
 			
-			
 		
-		
-		
-
 	}
 
 }
