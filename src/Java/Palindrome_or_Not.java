@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Palindrome_or_Not {
 
-	public static void main(String[] args) {
+	public static void main(String[] abhi) {
 		/*
 		 * String name;
 		 * 

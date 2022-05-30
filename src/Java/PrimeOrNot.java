@@ -12,11 +12,11 @@ public class PrimeOrNot
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter number to check Prime or not");
 		int n = sc.nextInt();
-		
+
 		if(n==1) {
-			System.out.println("Prime number start from 2");
-			
+			System.out.println("Prime number start from 2");	
 		}
+
 		for(int i=2 ; i<= n-1 ; i++)
 		{
 			if(n%i==0)

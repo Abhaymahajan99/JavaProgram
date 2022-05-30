@@ -11,7 +11,8 @@ public class Reverse_a_Number {
 
 
 		int num=sc.nextInt();
-		int temp=num;
+		
+		int temp = num;
 		int rev=0;
 		int rem;
 
