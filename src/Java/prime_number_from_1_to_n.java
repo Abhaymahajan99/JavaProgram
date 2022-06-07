@@ -1,3 +1,4 @@
+
 package Java;
 
 import java.util.Scanner;
@@ -15,8 +16,11 @@ public class prime_number_from_1_to_n {
 		System.out.println("Prime number between 1 and " + n);
 		
 		//loop through the numbers one by one
-		for(int i=1 ; i<n ; i++)
+		for(int i=1 ; i<=n ; i++)
 		{
+			if(i==1) {
+				System.out.println("Prime number start from 2");
+			}
 			boolean isPrime=true;
 
 			//check to see if the number is prime

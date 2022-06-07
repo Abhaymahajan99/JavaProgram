@@ -20,5 +20,9 @@ StringBuffer a = new StringBuffer(name);
 
 // use reverse() method to reverse string
 System.out.println("Reverse String :  "+ a.reverse());
+
+
 }
+
+
 }

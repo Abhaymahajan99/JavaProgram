@@ -25,6 +25,7 @@ public class Reverse_a_Number {
 			temp= temp/10;
 		}
 
+		
 
 		if(num==rev)
 
