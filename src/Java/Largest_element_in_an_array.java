@@ -11,7 +11,7 @@ public class Largest_element_in_an_array {
 	
 		
 		for(int i = 1; i< arr.length; i++) {
-			if(arr[i]< max) 
+			if(arr[i]> max) 
 				max = arr[i];
 			
 			

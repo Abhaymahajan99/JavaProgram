@@ -21,8 +21,11 @@ public class Palindrome_or_Not {
 		for(i=lenght-1;i>=0;i--)
 		{
 			rev=rev+name.charAt(i);
+			
+			
 
 		}
+		System.out.println(rev);
 		if(name.equals(rev)) 
 
 			System.out.println(rev + " is Pelendrom of " + name);
